@@ -1,7 +1,2 @@
 This is first code file
 
-i am a java developer and developing mobile project local
-
-this game is a bug
-
-New file added
